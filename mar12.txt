@@ -1,0 +1,80 @@
+Valuación de empresas:
+
+Valuar empreza antes de otorgar créditos, si vale 1 millon, se presta la tercera parte.
+Concurso mercantil es antes de irse a la quiebra, que se paguen las deudas entren nuevos inversores,
+que la empresa siga funcionando, se paga en  orden
+empleados, proveedores, gobiernos, bancos, otros creditos.
+
+Métodos para valuar una empresa:
+Valuación bursátil, precio de mercado:
+	Sabes cuanto vale la accion, la fraccion que representa, regla de 3 y tienes su valor.
+Valor en libros: Libros contables, en base a sus estados financieros, pero se tienen sesgo
+	depreciacion y amortizzcion de los bienes, una empresa si compra un carro no lo puede deducir, pero en los estados
+	financieros en 5 años se deprecia a 1 peso. En libros valen 1 peso pero estan sesgados por que se deprecian al 0%.
+	Accesos a los estados de cuenta, que por obligacion los muestran cada 3 meses, las que cotizan en bolsa.
+Valor de liquidación: Valuación por liquidiacion, tener acceso a todos los puntos de la empresa, si el auto vale 1 peso
+	para que no liquiden, lo esconden, 
+	cuando los auditan dejan que empelados ganene.
+	
+Valorar las acciones de una empresa no es muy distinto que valorar una vaca.
+
+
+Flujo de Efectivo Disponible (FED) Traer a Valor presente, definir taza de descuento a traves de la que traes esos flujos de efectivo.
+Tasa de referencia, 
+Determinar los flujos de efectivo entrante y saliente y considerar el horizonte de tiempo a utilizar.
+
+Costo de Capital Promedio Ponderado
+
+CCPP=kd(1-T)(D/D+c)+ke(C/D+C)
+
+kd = costo de la deuda antes de impuestos
+D = Valor de la deuda con costo
+Ke = Consto de oportunidad del caital propio o valor de mercado
+C = Valor del mercado de capital
+T = Tasa de impuestos
+
+EVA
+Valor Economico Agregado
+
+Diferencial entre la ROI y el costo de Capital multiplicado por el capital invertido.
+
+Se considera que se crea valor si el ROI es mayor al Costo capital
+ROI es una taza que te dice cuanto ganas por lo que inviertes
+Costo Capital= Cuanto pagas por el dinero que debes
+
+ROI=RSI
+
+WACC
+EVA = (RSI-CCPP)*Capital Invertido
+EVA = (ROI-WACC)*Invested Capital
+RSI=Retirbi Sobre inversion = Roi=return Over Investment
+
+EVA=(RSI)*CapitalInvertido-CCPP*CapitalInvertido
+
+EVA=UODI-CCPP*CAPITAL INVERTIDO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+	
